@@ -1,1 +1,1 @@
-echo "DEBUG = False" > config.py 
+echo "DEBUG = True" > config.py 
